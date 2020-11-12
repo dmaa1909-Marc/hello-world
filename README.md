@@ -1,18 +1,14 @@
 # hello-world
-* Guide repository
+Guide repository
 
 Hi Everybody,
 
 This is my first time using Git.
 
-##Double hashtag
+## Double hashtag
 
-###Tripple hashtag
+### Tripple hashtag
 
-* Apostrophy (with space)
+*Apostrophy (without space)*
 
-** Double apostrophy (with space)
-
-*Apostrophy (without space)
-
-**Double apostrophy (without space)
+**Double apostrophy (without space)**
