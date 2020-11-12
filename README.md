@@ -9,6 +9,8 @@ This is my first time using Git.
 
 ### Tripple hashtag
 
-*Apostrophy (without space)*
+*Apostrophies (without space)*
 
-**Double apostrophy (without space)**
+**Double apostrophies (without space)**
+
+* Apostrophy (with space)
